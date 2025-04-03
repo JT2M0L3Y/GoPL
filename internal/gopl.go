@@ -1,3 +1,7 @@
+/*
+FILE: internal/gopl.go
+DESC: Root of GoPL interpreter
+*/
 package main
 
 import (
